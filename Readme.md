@@ -5,7 +5,7 @@ Complete, compliant and well tested module for implementing an OAuth2 Server/Pro
 ## Installation
 
 ```
-npm install oauth2-server
+npm install https://github.com/tonymrakovcic/node-oauth2-server
 ```
 
 ## Quick Start
